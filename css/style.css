@@ -84,18 +84,30 @@ ul li a {
 	padding-top: 10px;
 	padding-bottom: 10px;
 	text-align: center;
+	color: #232323;
+	font-size: 20px;
 }
 .aboutTermOuter {
 	width: 100%
+}
+.aboutTermInnerTop {
+	height: 15px;
+	width: 75%;
+	background-color: #818181;
+	margin-left: 12.5%;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
 }
 .aboutTermInner {
 	width: 75%;
 	background-color: #383838;
 	margin-left: 12.5%;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
 }
 .aboutText {
-	padding-top: 1px;
-	padding-bottom: 1px;
 	font-family: 'Monaco', 'Courier New';
 	font-size: 12px;
 }
@@ -110,4 +122,32 @@ ul li a {
 .response a {
 	color: #00ABD7;
 	text-decoration: none;
+}
+/* Resume */
+.resume {
+	text-align: center;
+	width: 100%;
+	background-color: #232323;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	color: #EEEEEE;
+}
+.resBox {
+	width: 75%;
+	margin-left: 12.5%;
+	background-color: #525252;
+	color: #EEEEEE;
+	border-radius: 5px;
+}
+.resLeft {
+	width: 37%;
+	display: inline-block;
+	margin-right: 6.25%;
+	vertical-align: top;
+}
+.resRight {
+	width: 37%;
+	display: inline-block;
+	margin-left: 6.25%;
+	vertical-align: top;
 }
