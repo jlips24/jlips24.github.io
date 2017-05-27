@@ -64,6 +64,14 @@ ul li a {
 	background-color: #3F3D52;
 	padding-top: 250px;
 	padding-bottom: 250px;
+	color: #f2f2f2;
+	text-align: center;
+}
+.main h1 {
+	font-size: 80px;
+}
+.main p {
+	font-size: 20px;
 }
 /* About */
 .about {
@@ -98,4 +106,8 @@ ul li a {
 .response {
 	color: #AAAAAA;
 	padding-left: 35px;
+}
+.response a {
+	color: #00ABD7;
+	text-decoration: none;
 }
