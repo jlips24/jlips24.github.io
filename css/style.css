@@ -22,7 +22,7 @@ body {
 header {
 	width: 100%;
 	height: 50px;
-	background-color: #F2F2F2;
+	background-color: #00E5EE;
 }
 .logo {
 	color: #232323;
@@ -132,6 +132,14 @@ ul li a {
 	padding-bottom: 1px;
 	color: #EEEEEE;
 }
+.resHighlight{
+	background-color: #00E5EE;
+	color: #232323;
+	border-radius: 3px;
+	font-size: 20px;
+	width: 75%;
+	display: inline-block;
+}
 .resBox {
 	width: 75%;
 	margin-left: 12.5%;
@@ -139,15 +147,24 @@ ul li a {
 	color: #EEEEEE;
 	border-radius: 5px;
 }
+.resBox li {
+	text-align: left;
+}
+.resJob {
+	background-color: #00E5EE;
+	color: #232323;
+	border-radius: 3px;
+	font-size: 20px;
+}
 .resLeft {
-	width: 37%;
+	width: 46%;
 	display: inline-block;
-	margin-right: 6.25%;
+	margin-right: 3.125%;
 	vertical-align: top;
 }
 .resRight {
-	width: 37%;
+	width: 46%;
 	display: inline-block;
-	margin-left: 6.25%;
+	margin-left: 3.125%;
 	vertical-align: top;
 }
