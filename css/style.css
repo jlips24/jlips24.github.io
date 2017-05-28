@@ -184,3 +184,16 @@ ul li a {
 	text-align: center;
 	color: #EAEAEA;
 }
+/* Copyright */
+.copyright {
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: #00E5EE;
+	color: #3F3D52;
+	text-transform: uppercase;
+	font-weight: lighter;
+	letter-spacing: 2px;
+	border-top-width: 2px;
+	font-size: 15px;
+}
