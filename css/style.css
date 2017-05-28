@@ -59,7 +59,7 @@ ul li a {
 	color: #232323;
 	text-decoration: none;
 }
-/* Main Image */
+/* Main */
 .main {
 	background-color: #3F3D52;
 	padding-top: 250px;
@@ -162,6 +162,7 @@ ul li a {
 	font-size: 20px;
 	padding: 0 5px 0 5px;
 }
+/* Resume */
 .resLeft {
 	width: 43%;
 	display: inline-block;
@@ -175,4 +176,11 @@ ul li a {
 	margin-left: 3.125%;
 	margin-right: 3.125%;
 	vertical-align: top;
+}
+/* Projects */
+.projects {
+	background-color: #B14648;
+	padding:10px;
+	text-align: center;
+	color: #EAEAEA;
 }
