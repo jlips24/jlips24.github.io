@@ -93,14 +93,14 @@ ul li a {
 .aboutTermInnerTop {
 	height: 15px;
 	width: 75%;
-	background-color: #818181;
+	background-color: #D2D2D2;
 	margin-left: 12.5%;
 	border-top-left-radius: 5px;
 	border-top-right-radius: 5px;
 }
 .aboutTermInner {
 	width: 75%;
-	background-color: #383838;
+	background-color: #2C2C27;
 	margin-left: 12.5%;
 	border-bottom-left-radius: 10px;
 	border-bottom-right-radius: 10px;
