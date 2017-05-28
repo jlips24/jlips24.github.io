@@ -25,7 +25,7 @@ header {
 	background-color: #00E5EE;
 }
 .logo {
-	color: #232323;
+	color: #3F3D52;
 	font-weight: bold;
 	text-align: undefined;
 	width: 20%;
@@ -47,7 +47,7 @@ header nav ul {
 }
 nav ul li {
 	float: left;
-	color: #232323;
+	color: #3F3D52;
 	font-size: 14px;
 	text-align: left;
 	margin-right: 25px;
@@ -88,7 +88,7 @@ ul li a {
 	font-size: 20px;
 }
 .aboutTermOuter {
-	width: 100%
+	width: 100%;
 }
 .aboutTermInnerTop {
 	height: 15px;
@@ -157,14 +157,16 @@ ul li a {
 	font-size: 20px;
 }
 .resLeft {
-	width: 46%;
+	width: 43%;
 	display: inline-block;
 	margin-right: 3.125%;
+	margin-left:3.125%;
 	vertical-align: top;
 }
 .resRight {
-	width: 46%;
+	width: 43%;
 	display: inline-block;
 	margin-left: 3.125%;
+	margin-right: 3.125%;
 	vertical-align: top;
 }
