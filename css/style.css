@@ -177,6 +177,10 @@ ul li a {
 	margin-right: 3.125%;
 	vertical-align: top;
 }
+.resCommunityService ul {
+	margin-left: 3.125%;
+	margin-right: 3.125%;
+}
 /* Projects */
 .projects {
 	background-color: #B14648;
