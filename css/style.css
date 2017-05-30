@@ -81,6 +81,12 @@ ul li a {
 	padding: 0 10px 0 10px;
 }
 /* About */
+.anchor{
+  display: block;
+  height: 50px; /*same height as header*/
+  margin-top: -50px; /*same height as header*/
+  visibility: hidden;
+}
 .about {
 	background-color:#9EBC82;
 	display: table;
