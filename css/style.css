@@ -62,8 +62,8 @@ ul li a {
 /* Main */
 .main {
 	background-color: #3F3D52;
-	padding-top: 250px;
-	padding-bottom: 250px;
+	padding-top: 150px;
+	padding-bottom: 150px;
 	color: #f2f2f2;
 	text-align: center;
 }
@@ -162,7 +162,6 @@ ul li a {
 	font-size: 20px;
 	padding: 0 5px 0 5px;
 }
-/* Resume */
 .resLeft {
 	width: 43%;
 	display: inline-block;
