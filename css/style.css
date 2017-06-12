@@ -63,6 +63,9 @@ ul li a {
 	color: #3F3D52;
 	text-decoration: none;
 }
+.start {
+	padding-bottom: 25px;
+}
 /* Main */
 .main {
 	background-color: #3F3D52;
