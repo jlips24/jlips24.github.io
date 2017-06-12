@@ -32,7 +32,7 @@ header {
 	color: #3F3D52;
 	font-weight: bold;
 	text-align: undefined;
-	width: 21%;
+	width: 26%;
 	float: left;
 	margin-top: 15px;
 	margin-left: 25px;
@@ -41,7 +41,7 @@ header {
 }
 nav {
 	float: right;
-	width: 65%;
+	width: 64%;
 	text-align: right;
 	margin-right: 25px;
 }
