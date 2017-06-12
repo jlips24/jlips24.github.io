@@ -65,19 +65,19 @@ ul li a {
 }
 /* Main */
 .main {
-	background-color: #3F3D52;
+	background-color: #403F53;
 	padding-top: 150px;
 	padding-bottom: 150px;
 	color: #f2f2f2;
 	text-align: center;
 }
+.main img {
+	width: 75%;
+	height: auto;
+}
 .main h1 {
 	font-size: 80px;
 	letter-spacing: 25px;
-	padding: 0 10px 0 10px;
-}
-.main p {
-	font-size: 20px;
 	padding: 0 10px 0 10px;
 }
 /* About */
