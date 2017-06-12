@@ -1,5 +1,168 @@
 @charset "UTF-8";
 /* CSS Document */
+/* Main */
+.main {
+	background-color: #3F3D52;
+	padding-top: 150px;
+	padding-bottom: 150px;
+	color: #f2f2f2;
+	text-align: center;
+}
+.main img {
+	width: 75%;
+	height: auto;
+}
+.main h1 {
+	font-size: 80px;
+	letter-spacing: 25px;
+	padding: 0 10px 0 10px;
+}
+/* About */
+.anchor{
+  display: block;
+  height: 50px; /*same height as header*/
+  margin-top: -50px; /*same height as header*/
+  visibility: hidden;
+}
+.about {
+	background-color:#9EBC82;
+	display: table;
+	width: 100%;
+	padding-bottom: 40px;
+}
+.helloWorld {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+	color: #232323;
+	font-size: 20px;
+}
+.aboutTermOuter {
+	width: 100%;
+}
+.aboutTermInnerTop {
+	height: 15px;
+	width: 75%;
+	background-color: #D2D2D2;
+	margin-left: 12.5%;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
+.aboutTermInner {
+	width: 75%;
+	background-color: #2C2C27;
+	margin-left: 12.5%;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+.aboutText {
+	font-family: 'Monaco', 'Courier New';
+	font-size: 12px;
+}
+.prompt {
+	color: #F2F2F2;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.response {
+	color: #AAAAAA;
+	padding-left: 35px;
+	padding-right: 20px;
+}
+.response a {
+	color: #00ABD7;
+	text-decoration: none;
+}
+/* Resume */
+.resume {
+	text-align: center;
+	width: 100%;
+	background-color: #232323;
+	padding-top: 1px;
+	padding-bottom: 10px;
+	color: #EEEEEE;
+}
+.resHeading {
+	background-color: #00E5EE;
+	color: #232323;
+	border-radius: 3px;
+	width: 150px;
+	display: inline-block;
+	font-size: 30px;
+	margin-bottom: -3px;
+}
+.resHighlight {
+	background-color: #00E5EE;
+	color: #232323;
+	border-radius: 3px;
+	font-size: 20px;
+	width: 75%;
+	display: inline-block;
+}
+.resBox {
+	width: 75%;
+	margin-left: 12.5%;
+	background-color: #525252;
+	color: #EEEEEE;
+	border-radius: 5px;
+}
+.resBox li {
+	text-align: left;
+}
+.resJob {
+	background-color: #00E5EE;
+	color: #232323;
+	border-radius: 3px;
+	font-size: 20px;
+	padding: 0 5px 0 5px;
+}
+.resLeft {
+	width: 43%;
+	display: inline-block;
+	margin-right: 3.125%;
+	margin-left:3.125%;
+	vertical-align: top;
+}
+.resRight {
+	width: 43%;
+	display: inline-block;
+	margin-left: 3.125%;
+	margin-right: 3.125%;
+	vertical-align: top;
+}
+.resCommunityService ul {
+	margin-left: 3.125%;
+	margin-right: 3.125%;
+	padding: 10px 5%;
+}
+/* Projects */
+.projects {
+	background-color: #B14648;
+	padding-top: 10px;
+	padding-bottom: 50px;
+	text-align: center;
+	color: #EAEAEA;
+}
+.projHeading {
+	font-size: 30px;
+}
+.projectsBox{
+	width: 75%;
+	margin-left: 12.5%;
+	position: relative;
+}
+.project {
+	width: 29.7%;
+	display: inline-block;
+	margin: 0 1.5%;
+}
+.project img {
+	width: 100%;
+}
+@charset "UTF-8";
+/* CSS Document */
 /* Body */
 body {
 	font-family: source-sans-pro;
