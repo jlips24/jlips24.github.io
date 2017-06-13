@@ -1,0 +1,26 @@
+@charset "UTF-8";
+/* CSS Document */
+/* Body */
+.main {
+	padding-top: 100px;
+	background-color: #3F3D52;
+	padding-bottom: 50px;
+	text-align: center;
+	color: #f2f2f2;
+}
+.projectDescription {
+	width: 75%;
+	margin-left: 12.5%;
+}
+.previews{
+	width: 100%;
+	margin-bottom: 60px;
+}
+.webPreview {
+	display: inline-block;
+	max-width: 340px;
+	height: auto;
+	border-style: solid;
+	border-radius: 5px;
+	border-color: #2C2C27;
+}

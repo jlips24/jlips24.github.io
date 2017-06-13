@@ -66,3 +66,14 @@ ul li a {
 .start {
 	padding-bottom: 25px;
 }
+/* Copyright */
+.copyright {
+	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	background-color: #00E5EE;
+	color: #3F3D52;
+	font-weight: lighter;
+	font-size: 14px;
+	letter-spacing: 4px;
+}
