@@ -24,3 +24,14 @@
 	border-radius: 5px;
 	border-color: #2C2C27;
 }
+/* Copyright */
+.copyright {
+	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	background-color: #00E5EE;
+	color: #3F3D52;
+	font-weight: lighter;
+	font-size: 14px;
+	letter-spacing: 4px;
+}
