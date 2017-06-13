@@ -12,6 +12,9 @@
 	width: 75%;
 	margin-left: 12.5%;
 }
+.projectDescription p {
+	text-align: justify;
+}
 .previews{
 	width: 100%;
 	margin-bottom: 60px;
@@ -19,6 +22,7 @@
 .webPreview {
 	display: inline-block;
 	max-width: 340px;
+	width: 100%;
 	height: auto;
 	border-style: solid;
 	border-radius: 5px;
