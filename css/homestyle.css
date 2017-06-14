@@ -141,9 +141,10 @@
 .projects {
 	background-color: #B14648;
 	padding-top: 10px;
-	padding-bottom: 50px;
+	padding-bottom: 20px;
 	text-align: center;
 	color: #EAEAEA;
+	width: 100%;
 }
 .projHeading {
 	font-size: 30px;
@@ -151,6 +152,7 @@
 .projectsBox{
 	width: 75%;
 	margin-left: 12.5%;
+	margin-bottom: 10px;
 	position: relative;
 }
 .project {
