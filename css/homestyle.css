@@ -119,8 +119,9 @@
 	padding: 0 5px 0 5px;
 }
 .resFull {
-	width: 92.25%;
+	width: 89.125%;
 	display: inline-block;
+	margin-top: 15px;
 	margin-right: 3.125%;
 	margin-left:3.125%;
 	vertical-align: top;
