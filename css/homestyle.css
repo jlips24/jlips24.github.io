@@ -118,6 +118,13 @@
 	font-size: 20px;
 	padding: 0 5px 0 5px;
 }
+.resFull {
+	width: 92.25%;
+	display: inline-block;
+	margin-right: 3.125%;
+	margin-left:3.125%;
+	vertical-align: top;
+}
 .resLeft {
 	width: 43%;
 	display: inline-block;
