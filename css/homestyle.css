@@ -118,13 +118,10 @@
 	font-size: 20px;
 	padding: 0 5px 0 5px;
 }
-.resFull {
-	width: 89.125%;
-	display: inline-block;
-	margin-top: 15px;
+.fullJobList {
+	margin-left: 3.125%;
 	margin-right: 3.125%;
-	margin-left:3.125%;
-	vertical-align: top;
+	padding: 10px 5%;
 }
 .resLeft {
 	width: 43%;
