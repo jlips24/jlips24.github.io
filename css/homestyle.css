@@ -79,14 +79,14 @@
 .resume {
 	text-align: center;
 	width: 100%;
-	background-color: #232323;
+	background-color: #1D1128;
 	padding-top: 1px;
 	padding-bottom: 40px;
-	color: #EEEEEE;
+	color: #E5DCE9;
 }
 .resHeading {
-	background-color: #00E5EE;
-	color: #232323;
+	background-color: #5941A9;
+	color: #E5DCE9;
 	border-radius: 3px;
 	width: 150px;
 	display: inline-block;
@@ -94,8 +94,8 @@
 	margin-bottom: -3px;
 }
 .resHighlight {
-	background-color: #00E5EE;
-	color: #232323;
+	background-color: #5941A9;
+	color: #E5DCE9;
 	border-radius: 3px;
 	font-size: 20px;
 	width: 75%;
@@ -105,15 +105,15 @@
 	width: 75%;
 	margin-left: 12.5%;
 	background-color: #525252;
-	color: #EEEEEE;
+	color: #E5DCE9;
 	border-radius: 5px;
 }
 .resBox li {
 	text-align: left;
 }
 .resJob {
-	background-color: #00E5EE;
-	color: #232323;
+	background-color: #5941A9;
+	color: #E5DCE9;
 	border-radius: 3px;
 	font-size: 20px;
 	padding: 0 5px 0 5px;
