@@ -2,7 +2,7 @@
 /* CSS Document */
 /* Body */
 body {
-	font-family: Monaco;
+	font-family: Helvetica;
 	background-color: 000000;
 	margin-top: 0px;
 	margin-right: 0px;
@@ -74,6 +74,7 @@ ul li a {
 	padding-bottom: 15px;
 	background-color: #00E5EE;
 	color: #3F3D52;
+	font-family: Monaco;
 	font-weight: lighter;
 	font-size: 14px;
 	letter-spacing: 4px;
